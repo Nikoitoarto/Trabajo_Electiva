@@ -41,7 +41,4 @@ oyente: encuesta: encuesta_oyente: boleta: boleta_oyente: boleta_encuesta: premi
 ## Tener en cuenta:
 
 • Las llaves primarias de cada entidad (PK), se deben llamar id.  
-• Las llaver foraneas de cada entidad (FK), cuando aplique, se debe llamar entidad_foranea_id, ejemplo: en oyente que tiene la foranea de de boleta, sería oyente_id  
-
-
-
+• Las llaver foraneas de cada entidad (FK), cuando aplique, se debe llamar entidad_foranea_id, ejemplo: en oyente que tiene la foranea de de boleta, sería oyente_id 
