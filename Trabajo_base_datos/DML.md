@@ -1,6 +1,6 @@
 # Promt de acuerdo a enlistar las entidades de la base de datos.
 
-## Punto 1. Genere la lista de 10 oyentes con datos aleatorios, para registrar en la base de datos de la entidad oyentes en formato SQL para mySQL.
+## Punto 1. Genere la lista de 100 oyentes con datos aleatorios, para registrar en la base de datos de la entidad oyentes en formato SQL para mySQL.
 
 1. Estructrua de la entidad.
 
@@ -29,7 +29,7 @@ INSERT INTO oyente (tipo_documento,numero_documento,nombre_completo,correo,telef
 
 3. Memorizar en adelante los anteriores datos cómo Entidad oyente, es decir cada vez que invoque la Entidad persona, pueda recodar estos datos que sean entregados.
 
-## Punto 2. Genere la lista de 10 encuestas para registrar en la base de datos entidad encuestas.
+## Punto 2. Genere la lista de 100 encuestas para registrar en la base de datos entidad encuestas.
 
 1. Esctructura de la entidad:
 
@@ -78,7 +78,7 @@ INSERT INTO boleta (nombre_color,)VALUES
 ('azul');
 ````
 
-## Punto 4. Generar la lista de las 10 boletas que se van a entregar a los oyentes con nombre entidad Boleta, el color_boleta_id cambia cada 10 personas.
+## Punto 4. Generar la lista de las 100 boletas que se van a entregar a los oyentes con nombre entidad Boleta, el color_boleta_id cambia cada 10 personas.
 
 1. Estructura de la entidad.
 
